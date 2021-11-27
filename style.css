@@ -1,0 +1,16 @@
+#Recipe{
+    color: purple;
+    text-align: center;
+    margin-bottom: 80px;
+}
+img[alt=Magic-Cake]{
+    width: 300px;
+    height: 270px;
+}
+.h-3{
+    font-size: x-large;
+}
+.son{
+    color: red;
+    text-align: center;
+}
